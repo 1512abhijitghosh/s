@@ -41,3 +41,14 @@
     2. create seed route
     3. use route in server.js
     4. seed sample product
+13. Seed Sample Users
+    1. create user model
+    2. seed sample users
+14. Create Signin Backend API
+    1. create signin api
+    2. npm install jsonwebtoken
+    3. define generateToken
+15. Complete Signin Screen
+    1. handle submit action
+    2. save token in store and local storage
+    3. show user name in header
