@@ -100,3 +100,7 @@
     5. Create mongodb atlas database
     6. Set database connection in heroku env variables
     7. Commit and push
+26. Create Admin Menu
+    1. define protected route component
+    2. define admin route component
+    3. add menu for admin in header
