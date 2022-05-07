@@ -115,3 +115,14 @@
     1. create dashboard ui
     2. implement backend api
     3. connect ui to backend
+30. Create Product
+    1. create products button
+    2. implement backend api
+    3. handle on click
+31. Create Edit Product
+    1. create edit button
+    2. create edit product ui
+    3. dispaly product info in the input boxes
+32. Implement Update Product
+    1. create edit product backend api
+    2. handle update click
