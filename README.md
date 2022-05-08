@@ -143,3 +143,11 @@
     1. add deliver button
     2. handle click action
     3. implement backen api for deliver
+37. Delete Order
+    1. add delete button
+    2. handle click action
+    3. implement backen api for delete
+38. List Users
+    1. create user list screen
+    2. implement backen api
+    3. fetch and display users
